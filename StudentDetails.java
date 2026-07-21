@@ -1,14 +1,15 @@
 import java.io.*;
 import java.lang.*;
-class StudentDetails
+class Addition
   {
     public static void main(String args[])
     {
-      System.out.pritnln("Name : Pratiksha Vaidya ");
-      System.out.pritnln("College : PRMIT&R ");
-      System.out.pritnln("Branch : CSE ");
-      System.out.pritnln("City : Badnera ");
-      System.out.pritnln("Year : 2028 ");
+      System.out.println("Name : Pratiksha Vaidya ");
+      System.out.println("College : PRMIT&R ");
+      System.out.println("Branch : CSE ");
+      System.out.println("City : Badnera ");
+      System.out.println("Year : 2028 ");
     }
   }
+      
       
