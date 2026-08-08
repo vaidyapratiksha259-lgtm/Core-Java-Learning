@@ -10,15 +10,15 @@ class Typenumber
       int num=sc.nextInt();
       if(num>0)
       {
-              System.out.println("Enetr Number is Positive ");
+              System.out.println("Enter Number is Positive ");
       }
       else if(num<0)
       {
-              System.out.println("Enetr Number is Negative ");
+              System.out.println("Enter Number is Negative ");
       }
       else
       {
-          System.out.println("Enetr Number is Zero ");
+          System.out.println("Enter Number is Zero ");
       }
     }
     }
