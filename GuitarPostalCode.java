@@ -11,9 +11,9 @@ public class GuitarPostalCode {
             int lastDigit = pin % 10;
 
             if (lastDigit % 2 == 0) {
-                System.out.println(" Guitar String: Even Tune");
+                System.out.println("Guitar String: Even Tune");
             } else {
-                System.out.println(" Guitar String: Odd Tune");
+                System.out.println("Guitar String: Odd Tune");
             }
         } else {
             System.out.println("Invalid Postal Code!");
