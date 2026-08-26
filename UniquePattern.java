@@ -38,4 +38,3 @@ public class UniquePattern {
 
         sc.close();
     }
-}
